@@ -5,7 +5,7 @@ mac setup for Apple Silicon
 
 
 
-## 浏览器
+## 浏览器/Web Browsers
 
 **Chrome✅**
 
@@ -15,7 +15,7 @@ mac setup for Apple Silicon
 
 [下载 Microsoft Edge Web 浏览器 | Microsoft](https://www.microsoft.com/zh-cn/edge)
 
-## 办公类
+## 办公类/Productivity
 
 **Slack✅**
 
@@ -25,47 +25,61 @@ mac setup for Apple Silicon
 
 [Download the Loom Desktop App](https://www.loom.com/download)
 
-## 工具类
+**Microsoft Office **✅
 
-Folx **✅** P2P下载工具
+- [Microsoft Excel](https://apps.apple.com/cn/app/microsoft-excel/id462058435?l=en&mt=12) - ✅ Full Native Apple Silicon Support as of v16.44
+- [Microsoft Office 365](https://www.microsoft.com/en-us/microsoft-365/office-365) - ✅  Full Native Apple Silicon Support as of v16.44
+- [Microsoft OneNote](https://apps.apple.com/cn/app/microsoft-onenote/id784801555?l=en&mt=12) - ✅ Full Native Apple Silicon Support as of v16.44
+- [Microsoft Outlook](https://apps.apple.com/app/microsoft-outlook/id985367838?l=en&mt=12) - ✅ Full Native Apple Silicon Support as of v16.44
+- [Microsoft PowerPoint](https://apps.apple.com/cn/app/microsoft-powerpoint/id462062816?l=en&mt=12) - ✅ Full Native Apple Silicon Support as of v16.44
 
-[Free Download Manager for Mac | Folx](https://www.mac-downloader.com/)
+
+
+## 项目管理
+
+**Trello✅** works via Rosetta 2
+
+官网 推荐
+
+EN https://trello.com/
+
+中文 https://trello.com/zh-Hans
+
+App Store
+
+[‎Trello](https://apps.apple.com/cn/app/trello/id1278508951?mt=12)
+
+**Taskade✅**
+
+[Taskade](https://www.taskade.com/)
+
+
+
+## 开发软件/IDE
 
 **IntelliJ IDEA✅**
 
-选择Apple Silicon
+choose Apple Silicon
 
-[下载 IntelliJ IDEA：JetBrains 功能强大、符合人体工程学的 Java IDE](https://www.jetbrains.com/zh-cn/idea/download/#section=mac)
+https://www.jetbrains.com/zh-cn/idea/download/#section=mac
 
 **Visual Studio Code✅**
 
+choose Mac Universal
+
+https://code.visualstudio.com/
+
+Visual Studio Code Plugins
+
 [Visual Studio Code相关插件推荐](https://www.notion.so/Visual-Studio-Code-8f02a83c9f4d4599b12505488d9d23ff)
 
-[Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 
-**MySQL Workbench✅**
 
-[MySQL  Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+## 常用工具/Tools
 
-**MySQL Community Server ✅**
+**Folx ✅ P2P下载工具**
 
-选择ARM架构的版本
-
-[MySQL :: Download MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
-
-**Navicat✅**
-
-[Navicat Premium 16.1.0_zh-CN 中文破解版 for Windows 强大的数据库管理工具](https://www.macwk.com/soft/navicat-premium)
-
-**DBeaver✅**
-
-官方下载
-
-[Download](https://dbeaver.io/download/)
-
-破解下载
-
-[DBeaver Ultimate 21.3.0 中文破解版 for Windows 很强的多数据库管理工具](https://www.macwk.com/soft/dbeaver-ultimate)
+[Free Download Manager for Mac | Folx](https://www.mac-downloader.com/)
 
 **Postman✅**
 
@@ -97,6 +111,36 @@ Snippaste 截图工具**✅**
 
 [Snipaste 下载](https://zh.snipaste.com/download.html)
 
+
+
+## 数据库/Database
+
+**MySQL Workbench✅**
+
+[MySQL  Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+
+**MySQL Community Server ✅**
+
+choose ARM
+
+[MySQL :: Download MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+
+**Navicat✅**
+
+[Navicat Premium 16.1.0_zh-CN 中文破解版 for Windows 强大的数据库管理工具](https://www.macwk.com/soft/navicat-premium)
+
+**DBeaver✅**
+
+官方下载
+
+[Download](https://dbeaver.io/download/)
+
+破解下载
+
+[DBeaver Ultimate 21.3.0 中文破解版 for Windows 很强的多数据库管理工具](https://www.macwk.com/soft/dbeaver-ultimate)
+
+
+
 ## 终端相关
 
 **Iterm2✅**
@@ -121,7 +165,7 @@ Snippaste 截图工具**✅**
 
 ## 笔记类
 
-**typora ✅**
+**Typora ✅**
 
 [Typora - macOS release channel](https://typora.io/releases/all)
 
@@ -155,18 +199,3 @@ Snippaste 截图工具**✅**
 
 [Sourcetree | Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/)
 
-## 项目管理
-
-**Trello✅**
-
-官网 推荐
-
-[随时随地管理团队项目 | Trello](https://trello.com/zh-Hans)
-
-App Store应用
-
-[‎Trello](https://apps.apple.com/cn/app/trello/id1278508951?mt=12)
-
-**Taskade✅**
-
-[Taskade](https://www.taskade.com/)
